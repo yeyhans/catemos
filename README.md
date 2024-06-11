@@ -1,0 +1,7 @@
+# Proyecto de CATAS de cannabis
+
+En Farmiemos.cl, hemos revolucionado la experiencia de cata combinando ingeniería de datos avanzada y soluciones de visualización de última generación. Este proyecto se desarrolla sobre Astro, ofreciendo una interfaz de usuario rápida y eficiente, mientras que Firebase gestiona las operaciones de CRUD para asegurar una gestión de datos segura y escalable.
+
+Nuestro enfoque se centra en transformar la cata a través del uso de tecnologías de punta, incluyendo desarrollo web y análisis en Power BI. Esto nos permite entregar visualizaciones avanzadas y análisis detallados, proporcionando a los usuarios información precisa y oportuna. Farmiemos.cl está diseñado para optimizar decisiones y mejorar significativamente la experiencia general, haciendo cada interacción tanto informativa como intuitiva.
+
+Este proyecto destaca por su capacidad para integrar estructuras de datos complejas con una interfaz de usuario sencilla, permitiendo a los usuarios explorar y comprender profundamente cada muestra. Con Farmiemos.cl, llevamos la experiencia de cata a un nuevo nivel, donde cada dato y estadística juega un papel crucial en la elevación de la comprensión y la satisfacción del usuario.
